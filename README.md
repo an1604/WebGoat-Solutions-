@@ -1,6 +1,6 @@
 # OWASP Top 10 Issues in WebGoat for Penetration Testing
 
-This repository contains comprehensive solutions and explanations for the OWASP Top 10 security vulnerabilities as demonstrated in WebGoat, an intentionally insecure application designed for learning about application security. Each section includes proofs of our work and detailed approaches used in solving the tasks, making it a valuable resource for penetration testers and security enthusiasts.
+This repository contains comprehensive solutions and explanations for the OWASP Top 10 security vulnerabilities as demonstrated in WebGoat, an intentionally insecure application designed for learning about application security. Each section includes proofs of our work and detailed approaches used in solving the tasks.
 
 ## Contents
 
